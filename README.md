@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Artist-illustrator and create something all my life. 
+I'm an Artist-illustrator and create things all my life. 
 Now I became a Front-End Developer to dive deeper into better development of visual representation for users on their screens.
 
 - 🔭 I’m currently working on my portfolio website

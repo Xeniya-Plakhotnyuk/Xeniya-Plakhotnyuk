@@ -23,6 +23,8 @@ Now I became a Front-End Developer to dive deeper into better development of vis
 - 💬 Ask me about Midjourney and Stable Diffusion in a field of creation visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
+🚀  Some Tools I Have Used and Learned
+vscode  javascript react html bootstrap css3  nodejs  git  figma
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeniya-Plakhotnyuk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Xeniya-Plakhotnyuk" /> 

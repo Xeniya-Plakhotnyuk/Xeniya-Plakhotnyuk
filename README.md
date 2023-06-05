@@ -1,7 +1,8 @@
 ### Hello 👋 Xeniya is here!
 
 I'm an Artist-illustrator and create things all my life. 
-Now I became a <bold>Front-End Developer</bold> to dive deeper into better development of visual representation for users on their screens.
+
+Now I became a **Front-End Developer** to dive deeper into better development of visual representation for users on their screens.
 
 - 🔭 I’m currently working on my React portfolio projects
 - 🌱 I’m currently learning ReduxJS

@@ -10,7 +10,7 @@ Now I became a **Front-End Developer** to dive deeper into better development of
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
 
-##🚀  Tools I Have Used and Learned
+### Tools I Have Used and Learned
 
 <p align="left"> 
   

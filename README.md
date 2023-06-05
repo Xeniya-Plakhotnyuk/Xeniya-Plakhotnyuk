@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 Xeniya is here!
 
 <!--
 **Xeniya-Plakhotnyuk/Xeniya-Plakhotnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Artist-illustrator and create something all my life. 
+Now I became a Front-End Developer to dive deeper into better development of visual representation for users on their screens.
+
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning ReduxJS
+- 💬 Ask me about Midjourney and Stable Difusion in a field of creation visual content
+- ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!

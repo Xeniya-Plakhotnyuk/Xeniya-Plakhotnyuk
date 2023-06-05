@@ -21,7 +21,7 @@ Now I became a **Front-End Developer** to dive deeper into better development of
 </p>
 
 
-##Connect with me:
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/xeniya-plakhotnyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeniya-plakhotnyuk" height="30" width="40" /></a>
 </p>

@@ -10,7 +10,7 @@ Now I became a **Front-End Developer** to dive deeper into better development of
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
 
-<h3 align="left">🚀  Tools I Have Used and Learned</h3>
+##🚀  Tools I Have Used and Learned
 
 <p align="left"> 
   
@@ -20,7 +20,8 @@ Now I became a **Front-End Developer** to dive deeper into better development of
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xeniya-Plakhotnyuk&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Xeniya-Plakhotnyuk" /> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
+##Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/xeniya-plakhotnyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeniya-plakhotnyuk" height="30" width="40" /></a>
 </p>

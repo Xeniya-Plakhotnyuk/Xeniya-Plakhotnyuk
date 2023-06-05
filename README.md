@@ -23,3 +23,5 @@ Now I became a Front-End Developer to dive deeper into better development of vis
 - 💬 Ask me about Midjourney and Stable Diffusion in a field of creation visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeniya-Plakhotnyuk)](https://github.com/anuraghazra/github-readme-stats)

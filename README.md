@@ -20,5 +20,5 @@ Now I became a Front-End Developer to dive deeper into better development of vis
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning ReduxJS
-- 💬 Ask me about Midjourney and Stable Difusion in a field of creation visual content
+- 💬 Ask me about Midjourney and Stable Diffusion in a field of creation visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!

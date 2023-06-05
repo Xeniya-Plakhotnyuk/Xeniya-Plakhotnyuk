@@ -9,7 +9,8 @@ Now I became a **Front-End Developer** to dive deeper into better development of
 - 💬 Ask me about Midjourney and Stable Diffusion in a field of creation visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
-🚀  Tools I Have Used and Learned
+
+<h3 align="left">🚀  Tools I Have Used and Learned</h3>
 
 <p align="left"> 
   

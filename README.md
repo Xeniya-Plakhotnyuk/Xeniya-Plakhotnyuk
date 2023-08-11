@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on my React portfolio projects
-- 🌱 I’m currently learning ReduxJS
-- 💬 Ask me about Midjourney and Stable Diffusion in a field of creation visual content
+- 🌱 I’m currently learning ExpressJS
+- 💬 Ask me about Midjourney and Stable Diffusion in the field of creating visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
 
 

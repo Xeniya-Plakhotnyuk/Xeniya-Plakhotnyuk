@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Xeniya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32/></h1>
-<h3 align="center">Artist-illustrator who became a 〈 Front-End Developer ／〉 to dive deeper into better development of visual representation for users on their screens. </h3>
+<h3 align="center">〈 Front-End Developer ／ 〉with a background of an Artist-illustrator who is curious to dive deeper into software development for better visual representation and users' usability improvements. </h3>
 
 
 - 🔭 I’m currently working on my React portfolio projects

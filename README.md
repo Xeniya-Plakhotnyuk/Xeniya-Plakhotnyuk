@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Xeniya
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32/></h1>
 <h3 align="center">Artist-illustrator who became a 〈 Front-End Developer ／〉 to dive deeper into better development of visual representation for users on their screens. </h3>
 
 

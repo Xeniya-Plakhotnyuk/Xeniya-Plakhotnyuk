@@ -30,4 +30,4 @@
 
 ## Check out some of my deployed websites
 
-[Recipe search](https://recepiebyingridient.vercel.app/) | [Bootstrap Portfolio website ](https://xeniya-plakhotnyuk.github.io/Artist-portfolio-website/#) | [REACT business website](https://focus-interiors-website.vercel.app/)
+[Recipe search](https://recepiebyingridient.vercel.app/) | [Bootstrap Portfolio website ](https://xeniya-plakhotnyuk.github.io/Artist-portfolio-website/#) | [REACT business website](https://focus-interiors-website.vercel.app/) | [JavaScript Assorted apps](https://java-script-portfolio-delta.vercel.app/)

@@ -4,11 +4,9 @@
 <h3 align="center">with a background of an Artist-illustrator who is curious to dive deeper into software development for better visual representation and  usability improvements. </h3>
 
 
-- 🔭 I’m currently working on my React portfolio projects
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently studying Node.js with Code the Dream school!
 - 💬 Ask me about Midjourney and Stable Diffusion in the field of creating visual content
 - ⚡ Fun fact: I'm damn adaptive - have changed 4 countries in my life so far!
-
 
 ## Tools I Have Used and Learned
 
